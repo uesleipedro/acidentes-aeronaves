@@ -1,7 +1,7 @@
 # Acidentes de aeronaves 
 
 Análise exploratória do dataset disponibilizado pela ANAC, o qual contém dados sobre acidentes, e incidentes com aeronaves.
-Esses dataset mostra os ocorridos de 2008 a 2018
+Esses dataset mostra os ocorridos entre 2008 e 2018
 
 A análise é feita em liguagem Python, utilizando o jupyter-notebook para facilitar a visualização de cada passo.
 
