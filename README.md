@@ -1,18 +1,19 @@
-# Acidentes de aeronaves 
+# Análise de dados com Python 
+## Acidentes de aeronaves 
 
-Análise exploratória do dataset disponibilizado pela ANAC, o qual contém dados sobre acidentes, e incidentes com aeronaves.
-Esses dataset mostra os ocorridos entre 2008 e 2018
+Análise exploratória do dataset disponibilizado pela ANAC, o qual contém dados sobre acidentes e incidentes com aeronaves.
+Esses dataset mostra os ocorridos entre 2008 e 2018.
 
 A análise é feita em liguagem Python, utilizando o jupyter-notebook para facilitar a visualização de cada passo.
 
-# Objetivo
+### Objetivo
 O objetivo desta análise é responder às seguintes perguntas:
 
-1) Que tipo de classificação de ocorrência é mais comum e qual mais rara?
+1) Que tipo de classificação de ocorrência é mais comum e qual é mais rara?
 
-2) Quais os tipos de ocorrênca mais frequentes?
+2) Quais os tipos de ocorrêncas mais frequêntes?
 
-3) Quais estados tiveram mais ocorrências?
+3) Quais estados apresentam maior número de ocorrências?
 
 4) Qual a quantidade de ocorrências por tipo de motor?
 
